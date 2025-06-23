@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import UrlShortenerPage from './pages/UrlShortenerPage';
-import UrlStatsPage from './pages/UrlStatsPage';
-import RedirectPage from './pages/RedirectPage';
+import UrlShortenerPage from './Pages/UrlShortenerPage';
+import UrlStatsPage from './Pages/UrlStatsPage';
+import RedirectPage from './Pages/RedirectPage';
 
 function App() {
   return (
